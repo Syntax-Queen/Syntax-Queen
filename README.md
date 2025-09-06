@@ -10,7 +10,7 @@ I’m a results-driven software engineer with 2+ years of experience building sc
 
 ## 🔧 Tech Stack  
 💻 **Languages:** JavaScript, Python  
-⚡ **Frameworks/Libraries:** React, TailwindCSS, Flask  
+⚡ **Frameworks/Libraries:** React, TailwindCSS, Flask, Bootstrap  
 🗄 **Databases:** PostgreSQL, SQLite  
 🛠 **Tools & Platforms:** Git, Docker, REST APIs, Postman  
 
@@ -19,7 +19,7 @@ I’m a results-driven software engineer with 2+ years of experience building sc
 ## 🏗 Featured Projects  
 🌍 **[AfricaSaved](#)** – Health-tech platform providing instant family alerts during medical emergencies.  
 💼 **[Unhire](#)** – Next-gen freelance platform guaranteeing on-time delivery and transparent workflows.  
-🚀 **[Launchly Projects](https://teamlaunchly.space/)** – Portfolio of SaaS platforms and websites designed to convert and scale.  
+🚀 **[Launchly Projects](https://teamlaunchly.space)** – Portfolio of SaaS platforms and websites designed to convert and scale.  
 
 ---
 
@@ -38,7 +38,7 @@ I’m building **Launchly** into a go-to partner for businesses that want scalab
 
 ## 📫 Let’s Connect  
 🌐 Portfolio: [teamlaunchly.space](https://teamlaunchly.space/)  
-💼 LinkedIn: [linkedin.com/in/queenrashy](#)  
+💼 LinkedIn: [linkedin.com/in/queenrashy](https://x.com/Syntax_Queen)  
 🐙 GitHub: [github.com/queenrashy](https://github.com/queenrashy)  
 
 ---
