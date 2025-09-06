@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Queen Adebisi  
 
-<!--
-**queenrashy/queenrashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" align="right" alt="SpongeBob coding" />
 
-Here are some ideas to get you started:
+🚀 **Full-Stack Software Engineer | Founder of Launchly Agency | SaaS Solutions Developer**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a results-driven software engineer with 2+ years of experience building scalable SaaS platforms, high-converting websites, and intuitive, user-focused applications. As the founder of **Launchly Agency**, I partner with startups and businesses to deliver digital solutions that enhance engagement, streamline workflows, and accelerate growth.  
+
+---
+
+## 🔧 Tech Stack  
+💻 **Languages:** JavaScript, Python  
+⚡ **Frameworks/Libraries:** React, TailwindCSS, Flask  
+🗄 **Databases:** PostgreSQL, SQLite  
+🛠 **Tools & Platforms:** Git, Docker, REST APIs, Postman  
+
+---
+
+## 🏗 Featured Projects  
+🌍 **[AfricaSaved](#)** – Health-tech platform providing instant family alerts during medical emergencies.  
+💼 **[Unhire](#)** – Next-gen freelance platform guaranteeing on-time delivery and transparent workflows.  
+🚀 **[Launchly Projects](https://teamlaunchly.space/)** – Portfolio of SaaS platforms and websites designed to convert and scale.  
+
+---
+
+## 🌍 What I Do  
+- Architect and develop **scalable SaaS platforms**  
+- Design **modern, responsive websites** with conversion-focused UI/UX  
+- Build **APIs and backend systems** for growth-focused businesses  
+- Lead **Launchly Agency** to help brands thrive in the digital economy  
+
+---
+
+## 📈 Vision  
+I’m building **Launchly** into a go-to partner for businesses that want scalable, high-performance web solutions. My goal is to merge **tech + business strategy** to create digital products that don’t just work — they **grow companies**.  
+
+---
+
+## 📫 Let’s Connect  
+🌐 Portfolio: [teamlaunchly.space](https://teamlaunchly.space/)  
+💼 LinkedIn: [linkedin.com/in/queenrashy](#)  
+🐙 GitHub: [github.com/queenrashy](https://github.com/queenrashy)  
+
+---
+
+✨ *"I’m not just coding apps, I’m building Launchly into an empire."*  
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="SpongeBob working" />
