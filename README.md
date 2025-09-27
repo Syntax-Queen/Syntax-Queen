@@ -38,8 +38,7 @@ I’m building **Launchly** into a go-to partner for businesses that want scalab
 
 ## 📫 Let’s Connect  
 🌐 Portfolio: [teamlaunchly.space](https://teamlaunchly.space/)  
-💼X: [x.com/Syntax_Queen](https://x.com/Syntax_Queen) 
- GitHub: [github.com/queenrashy](https://github.com/queenrashy)  
+
 
 ---
 
