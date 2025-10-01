@@ -4,7 +4,7 @@
 
 🚀 **Full-Stack Software Engineer | Founder of Launchly Agency | SaaS Solutions Developer**  
 
-I’m a results-driven software engineer with 2+ years of experience building scalable SaaS platforms, high-converting websites, and intuitive, user-focused applications. As the founder of **Launchly Agency**, I partner with startups and businesses to deliver digital solutions that enhance engagement, streamline workflows, and accelerate growth.  
+I’m a results-driven software engineer with 1 year of experience building scalable SaaS platforms, high-converting websites, and intuitive, user-focused applications. As the founder of **Launchly Agency**, I partner with startups and businesses to deliver digital solutions that enhance engagement, streamline workflows, and accelerate growth.  
 
 ---
 
