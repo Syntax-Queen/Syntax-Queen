@@ -8,6 +8,15 @@ I’m a results-driven software engineer with 1 year of experience building scal
 
 ---
 
+
+## 📫 Let’s Portfolio
+
+Projects Portfolio: [Projects portfolio](https://syntaxqueenportfolioo.netlify.app)
+Business Portfolio: [teamlaunchly.space](https://teamlaunchly.space/)  
+Documentation Portfolio: [Backend portfolio](https://all-documentation.netlify.app)
+
+---
+
 ## 🔧 Tech Stack  
 💻 **Languages:** JavaScript, Python  
 ⚡ **Frameworks/Libraries:** React, TailwindCSS, Flask, Bootstrap  
@@ -36,9 +45,7 @@ I’m building **Launchly** into a go-to partner for businesses that want scalab
 
 ---
 
-## 📫 Let’s Connect  
-🌐  Business Portfolio: [teamlaunchly.space](https://teamlaunchly.space/)  
-    Documentation Portfolio: [Backend portfolio](https://all-documentation.netlify.app/)
+    
  
 
 
