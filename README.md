@@ -41,7 +41,7 @@ Documentation Portfolio: [Backend portfolio](https://all-documentation.netlify.a
 ---
 
 ## 📈 Vision  
-I’m building **Launchly** into a go-to partner for businesses that want scalable, high-performance web solutions. My goal is to merge **tech + business strategy** to create digital products that don’t just work  they **grow companies**.  
+I’m building **Launchly** into a go to partner for businesses that want scalable, high performance web solutions. My goal is to merge **tech + business strategy** to create digital products that don’t just work  they **grow companies**.  
 
 ---
 
