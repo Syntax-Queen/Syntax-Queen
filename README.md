@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Queen Adebisi  
+I'm a mid-level developer who loves solving problems and inventing new things let's build the future together!
 
-
-I’m a mid-level developer who loves solving problems and inventing new things let’s build the future.
 ---
 
 ## 💼 Portfolio
-
 - **Projects Portfolio:** [Projects portfolio](https://syntaxqueenportfolioo.netlify.app)  
 - **Documentation Portfolio:** [Backend portfolio](https://all-documentation.netlify.app)  
 - **Business Portfolio:** [Launchly Agency](https://teamlaunchly.space)  
@@ -13,11 +11,10 @@ I’m a mid-level developer who loves solving problems and inventing new things 
 ---
 
 ## 🔧 Tech Stack  
-
 **Languages:** Python, JavaScript, Go, SQL (SQLite, PostgreSQL)  
 **Frameworks & Libraries:** Flask, FastAPI, Node.js, React.js, Vue.js  
 **Frontend & UI:** CSS, Tailwind CSS, Bootstrap  
-**Backend & APIs:** RESTful APIs, JWT Authentication, System Design, GraphQl and so much more
+**Backend & APIs:** RESTful APIs, JWT Authentication, System Design, GraphQL, and so much more  
 **Tools & Platforms:** Git, GitHub, Postman, Render, DigitalOcean  
 
 ---
