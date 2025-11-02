@@ -14,7 +14,7 @@ I'm a mid-level developer who loves solving problems and inventing new things le
 **Languages:** Python, JavaScript, Go, SQL (SQLite, PostgreSQL)  
 **Frameworks & Libraries:** Flask, FastAPI, Node.js, React.js, Vue.js  
 **Frontend & UI:** CSS, Tailwind CSS, Bootstrap  
-**Backend & APIs:** RESTful APIs, JWT Authentication, System Design, Dsa GraphQL, and so much more  
+**Backend & APIs:** RESTful APIs, JWT Authentication, System Design, DSA,  GraphQL, and so much more  
 **Tools & Platforms:** Git, GitHub, Postman, Render, DigitalOcean  
 
 ---
