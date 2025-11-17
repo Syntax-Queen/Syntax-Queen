@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Queen Adebisi  
-I'm a mid-level developer who loves solving problems and inventing new things let's build the future together!
+I'm a Backend developer who loves solving problems and inventing new things let's build the future together!
 
 ---
 
