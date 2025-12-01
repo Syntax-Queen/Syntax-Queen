@@ -11,7 +11,7 @@ I'm a Backend developer who loves solving problems and inventing new things let'
 ---
 
 ## 🔧 Tech Stack  
-**Languages:** Python, JavaScript, Go, SQL (SQLite, PostgreSQL)  
+**Languages:** Python, JavaScript, Go, Php SQL (SQLite, PostgreSQL)  
 **Frameworks & Libraries:** Flask, FastAPI, Node.js, React.js, Vue.js  
 **Frontend & UI:** CSS, Tailwind CSS, Bootstrap  
 **Backend & APIs:** RESTful APIs, JWT Authentication, System Design, DSA,  GraphQL, and so much more  
